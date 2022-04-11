@@ -1,1 +1,2 @@
 Hello my commit 1
+Changes maded to this commit
