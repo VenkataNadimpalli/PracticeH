@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 this is a new file created.
 
 This is only in new feature branch.
 
-=======
+
 new thing been added to branch
->>>>>>> main
+
